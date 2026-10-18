@@ -2,7 +2,7 @@
 
 > Plataforma web em português para formular e analisar dietas caseiras de cães e gatos, desenvolvida para o ensino de Medicina Veterinária no Hospital Veterinário da UESC (HOSPVET).
 
-<!-- Adicione aqui o print principal: docs/screenshots/01-analise.png -->
+![Análise](docs/screenshots/01.png)
 
 **Instituição:** Hospital Veterinário da Universidade Estadual de Santa Cruz (UESC) · **Contexto:** estágio em engenharia de software · **Meu papel:** desenvolvedor, do levantamento de requisitos à implementação
 
@@ -29,20 +29,20 @@ Uma plataforma própria, em português, onde a professora cadastra os ingredient
 
 ## 👥 Perfis de usuário
 
-| Perfil | O que faz |
-|---|---|
-| Administradora (professora) | Cadastra ingredientes e aprova usuários |
-| Aluno | Formula e analisa receitas, exporta relatórios |
-| Tutor | Prevista para uma fase futura |
+| Perfil                      | O que faz                                      |
+| --------------------------- | ---------------------------------------------- |
+| Administradora (professora) | Cadastra ingredientes e aprova usuários        |
+| Aluno                       | Formula e analisa receitas, exporta relatórios |
+| Tutor                       | Prevista para uma fase futura                  |
 
 ## 🛠️ Stack
 
-| Camada | Tecnologia |
-|---|---|
-| Back-end | Python · Django |
-| Banco de dados | PostgreSQL |
-| Front-end | Templates Django · HTMX · Alpine.js |
-| Relatórios | WeasyPrint (PDF) |
+| Camada              | Tecnologia                                                     |
+| ------------------- | -------------------------------------------------------------- |
+| Back-end            | Python · Django                                                |
+| Banco de dados      | PostgreSQL                                                     |
+| Front-end           | Templates Django · HTMX · Alpine.js                            |
+| Relatórios          | WeasyPrint (PDF)                                               |
 | Dados de referência | FoodData Central/USDA (Foundation Foods) · FEDIAF 2025 · AAFCO |
 
 ## 📐 Engenharia de requisitos
@@ -54,15 +54,16 @@ Antes de programar, o projeto foi planejado junto com a professora responsável:
 - Diagrama de classes inicial
 - Plano de desenvolvimento em fases
 
-<!-- Se puder, adicione o diagrama de classes ou de casos de uso em docs/ e coloque a imagem aqui. -->
+![Análise](docs/screenshots/diagrama.png)
 
 ## 📸 Telas
 
-<!-- Adicione 2 ou 3 prints com dados de teste, o tradutor do navegador desligado e sem a barra de endereço:
+Adicione 2 ou 3 prints com dados de teste, o tradutor do navegador desligado e sem a barra de endereço:
 | Análise nutricional | Relatório em PDF |
 |---|---|
-| ![Análise](docs/screenshots/01-analise.png) | ![PDF](docs/screenshots/02-relatorio.png) |
--->
+| ![Análise](docs/screenshots/03.png) | ![PDF](docs/screenshots/02-relatorio.png) |
+| ![Análise](docs/screenshots/01-analise.png) | |
+| ![Análise](docs/screenshots/02.png) | |
 
 ## 🚧 Status
 
@@ -70,7 +71,7 @@ Em desenvolvimento: Fase 2 (MVP).
 
 ## 📚 O que aprendi
 
-<!-- Escreva aqui, com suas palavras, 3 ou 4 aprendizados reais. Exemplos: levantar requisitos com uma especialista de outra área, transformar diretrizes científicas em regras de negócio, gerar PDFs no back-end. -->
+Neste processo de desenvolvimento do sistema de dieta caseira, obtive amplos conhecimentos na implementação em python e django sob um cenário com pouco conhecimento, desafiando minha curiosidade neste desáfio para minha carreira.
 
 ---
 
