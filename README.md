@@ -60,7 +60,7 @@ Antes de programar, o projeto foi planejado junto com a professora responsável:
 
 | Análise nutricional | Relatório em PDF |
 |---|---|
-| ![Análise](docs/screenshots/03.png) | ![PDF](docs/screenshots/02-relatorio.png) |
+| ![Análise](docs/screenshots/03.png) | ![PDF](docs/screenshots/02relatorio.png) |
 | ![Análise](docs/screenshots/01-analise.png) | |
 | ![Análise](docs/screenshots/02.png) | |
 
