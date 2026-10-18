@@ -58,7 +58,6 @@ Antes de programar, o projeto foi planejado junto com a professora responsável:
 
 ## 📸 Telas
 
-Adicione 2 ou 3 prints com dados de teste, o tradutor do navegador desligado e sem a barra de endereço:
 | Análise nutricional | Relatório em PDF |
 |---|---|
 | ![Análise](docs/screenshots/03.png) | ![PDF](docs/screenshots/02-relatorio.png) |
